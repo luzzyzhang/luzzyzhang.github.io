@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+[夏尔(Shire)][shire] 位于中土大陆霍比特人居住的偏僻地区。
 
 
-[jekyll-organization]: https://github.com/jekyll
+
+[shire]: https://zh.wikipedia.org/wiki/%E5%A4%8F%E7%88%BE_(%E4%B8%AD%E5%9C%9F%E5%A4%A7%E9%99%B8)
