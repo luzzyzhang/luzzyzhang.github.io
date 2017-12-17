@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Shire!"
 date:   2017-12-17 01:47:19 +0800
-categories: jekyll update
+categories: story
 ---
 
 ### `The Zen of Python, by Tim Peters`
