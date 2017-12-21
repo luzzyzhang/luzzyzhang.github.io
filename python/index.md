@@ -5,10 +5,10 @@ title: "Python"
 excerpt: "Python is simple power and beautiful"
 ---
 
-<div class="tiles">
+<div>
 {% for post in site.posts %}
 	{% if post.categories contains 'python' %}
         {% include post-grid.html %}
 	{% endif %}
 {% endfor %}
-</div><!-- /.tiles -->
+</div>

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: "Zen of Python"
 categories: python
 tags: [Python]
