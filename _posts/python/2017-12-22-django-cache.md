@@ -1,3 +1,10 @@
+---
+layout: home
+title: "Zen of Python"
+categories: python
+tags: [Python]
+---
+
 ### `Django cache demo`
 
 ```python
