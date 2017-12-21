@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Zen of Python"
+title: "Django cache"
 categories: python
 tags: [Python]
 ---
