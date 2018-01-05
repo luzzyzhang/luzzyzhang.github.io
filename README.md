@@ -1,2 +1,4 @@
 # luzzyzhang.github.io
-blog
+
+`coding building day and night`
+
