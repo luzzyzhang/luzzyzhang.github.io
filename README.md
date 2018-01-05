@@ -1,4 +1,4 @@
 # luzzyzhang.github.io
 
-`coding building day and night`
+> `coding building day and night`
 
