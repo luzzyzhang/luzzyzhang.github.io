@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[494],{4960:e=>{e.exports=JSON.parse('{"label":"concurrency","permalink":"/blog/tags/concurrency","allTagsPath":"/blog/tags","count":1}')}}]);
