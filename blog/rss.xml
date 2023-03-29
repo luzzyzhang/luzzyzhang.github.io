@@ -4,10 +4,25 @@
         <title>Hiker Blog</title>
         <link>http://luzzyzhang.github.io/blog</link>
         <description>Hiker Blog</description>
-        <lastBuildDate>Wed, 15 Mar 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[The Art of Writing Software]]></title>
+            <link>http://luzzyzhang.github.io/blog/art-of-writing-software</link>
+            <guid>http://luzzyzhang.github.io/blog/art-of-writing-software</guid>
+            <pubDate>Wed, 29 Mar 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[---]]></description>
+            <content:encoded><![CDATA[<div class="video-container"><link rel="preload" href="https://i.ytimg.com/vi_webp/QdVFvsCWXrA/maxresdefault.webp" as="image"><article class="yt-lite" data-title="The Art of Writing Software" style="background-image:url(https://i.ytimg.com/vi_webp/QdVFvsCWXrA/maxresdefault.webp);--aspect-ratio:56.25%"><button type="button" class="lty-playbtn" aria-label="Watch The Art of Writing Software"></button></article></div><hr><ul><li>Computers are like musical instruments, built to perform.</li><li>The code of computer programmers is 'software'.</li><li>Easy or hard, all programming problems are solved with languages, data structures, and algorithms. Plus, a lot of hard, focused concentration.</li></ul><blockquote><p>I found that writing software was much more difficult than anything else I
+had done in my life. I had to keep so many things in my head at once, I
+couldn't just put them down and start something else.
+-- Donald Knuth</p></blockquote><blockquote><p>You know, I just want it to be elegant in a
+way that hangs together so somebody can
+read it and simle.
+-- Donald Knuth</p></blockquote>]]></content:encoded>
+            <category>software</category>
+        </item>
         <item>
             <title><![CDATA[Concurrency]]></title>
             <link>http://luzzyzhang.github.io/blog/concurrency</link>

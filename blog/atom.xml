@@ -2,11 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://luzzyzhang.github.io/blog</id>
     <title>Hiker Blog</title>
-    <updated>2023-03-15T00:00:00.000Z</updated>
+    <updated>2023-03-29T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://luzzyzhang.github.io/blog"/>
     <subtitle>Hiker Blog</subtitle>
     <icon>http://luzzyzhang.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[The Art of Writing Software]]></title>
+        <id>http://luzzyzhang.github.io/blog/art-of-writing-software</id>
+        <link href="http://luzzyzhang.github.io/blog/art-of-writing-software"/>
+        <updated>2023-03-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[---]]></summary>
+        <content type="html"><![CDATA[<div class="video-container"><link rel="preload" href="https://i.ytimg.com/vi_webp/QdVFvsCWXrA/maxresdefault.webp" as="image"><article class="yt-lite" data-title="The Art of Writing Software" style="background-image:url(https://i.ytimg.com/vi_webp/QdVFvsCWXrA/maxresdefault.webp);--aspect-ratio:56.25%"><button type="button" class="lty-playbtn" aria-label="Watch The Art of Writing Software"></button></article></div><hr><ul><li>Computers are like musical instruments, built to perform.</li><li>The code of computer programmers is 'software'.</li><li>Easy or hard, all programming problems are solved with languages, data structures, and algorithms. Plus, a lot of hard, focused concentration.</li></ul><blockquote><p>I found that writing software was much more difficult than anything else I
+had done in my life. I had to keep so many things in my head at once, I
+couldn't just put them down and start something else.
+-- Donald Knuth</p></blockquote><blockquote><p>You know, I just want it to be elegant in a
+way that hangs together so somebody can
+read it and simle.
+-- Donald Knuth</p></blockquote>]]></content>
+        <author>
+            <name>luzzy zhang</name>
+            <uri>https://github.com/luzzyzhang/</uri>
+        </author>
+        <category label="software" term="software"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Concurrency]]></title>
         <id>http://luzzyzhang.github.io/blog/concurrency</id>
