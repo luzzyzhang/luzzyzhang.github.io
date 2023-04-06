@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[636],{2539:e=>{e.exports=JSON.parse('{"title":"Linux","description":"May the Force be with you:)","slug":"/category/linux","permalink":"/docs/category/linux","navigation":{"previous":{"title":"TIL","permalink":"/docs/category/til"},"next":{"title":"System call execve","permalink":"/docs/til/linux/execve"}}}')}}]);
