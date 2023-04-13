@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[866],{1730:e=>{e.exports=JSON.parse('{"label":"system-programming","permalink":"/docs/tags/system-programming","allTagsPath":"/docs/tags","count":1,"items":[{"id":"til/linux/execve","title":"System call execve","description":"Description","permalink":"/docs/til/linux/execve"}]}')}}]);

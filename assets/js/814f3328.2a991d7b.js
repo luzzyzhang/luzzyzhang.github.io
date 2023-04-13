@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[2535],{5641:t=>{t.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Atomic Habits","permalink":"/blog/atomic-habits"},{"title":"The Art of Writing Software","permalink":"/blog/art-of-writing-software"},{"title":"Concurrency","permalink":"/blog/concurrency"}]}')}}]);
